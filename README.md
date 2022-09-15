@@ -1,6 +1,3 @@
-<p align="center"><a href="https://devdojo.com/wave" target="_blank"><img src="https://cdn.devdojo.com/assets/img/github-wave-logo.svg" width="240"></a></p>
-
-<p align="center"><a href="https://www.producthunt.com/posts/wave-2-0" target="_blank"><img src="https://cdn.devdojo.com/images/april2021/upvote-product-hunt-img.png" height="auto" width="auto"></a></p>
 
 ## Introduction
 
@@ -77,7 +74,11 @@ Finally, we will need to seed our database with the following command:
 php artisan db:seed
 ```
 <br>
-
+php artisan serve
+ 
+ Your app will then be available in your local browser at http://127.0.0.1:8000
+ 
+ 
 🎉 And that's it! You will now be able to visit your URL and see your Wave application up and running.
 
 
